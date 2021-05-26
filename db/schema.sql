@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS barebones_db;
+CREATE DATABASE barebones_db;
