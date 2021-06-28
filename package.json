@@ -1,0 +1,20 @@
+{
+  "name": "bare-bones-messaging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almurawski15/bare-bones-messaging.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/almurawski15/bare-bones-messaging/issues"
+  },
+  "homepage": "https://github.com/almurawski15/bare-bones-messaging#readme"
+}
